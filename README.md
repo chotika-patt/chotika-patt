@@ -46,15 +46,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Chotika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chotika-patt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chotika-patt&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+## 🚀 My Projects
+ 
+| Project | Description |
+|---------|-------------|
+| [DeadlineNavigator](https://github.com/chotika-patt/DeadlineNavigator) | 📅 Smart Assignment & Task Management System |
+| [SmartClassrooms](https://github.com/chotika-patt/SmartClassrooms) | 🏫 Smart Classroom Q&A and Engagement Tracking |
+| [SweetEnvelope](https://github.com/chotika-patt/SweetEnvelope) | 💌 Digital Letter & Anonymous Message Platform |
 
 ---
 
